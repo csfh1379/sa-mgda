@@ -1,4 +1,4 @@
-#Semi-Anchored Multi-Step Gradient Descent Ascent Method for Structured Nonconvex-Nonconcave Composite Minimax Problems
+# Semi-Anchored Multi-Step Gradient Descent Ascent Method for Structured Nonconvex-Nonconcave Composite Minimax Problems
 
 This repository contains the fair classification experiment in [[1]](#1)
 on the Fashion MNIST data set [[2]](#2).
